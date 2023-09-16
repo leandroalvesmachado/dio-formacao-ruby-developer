@@ -32,3 +32,5 @@
   * [6. While](#)
   * [7. Times](#)
   * [8. DoWhile](#)
+
+- [06 - Criando uma Calculadora com Ruby - Básico - 1 hrs](#)
