@@ -6,7 +6,7 @@
 ## docker run -it --name dio-formacao-ruby-developer -v /var/www/html/dio-formacao-ruby-developer:/var/www/html ubuntu22-ruby3-node18-rails7-postgresql14
 ## docker run -p 3000:3000 meu_app_rails
 
-## Conhecendo a Linguagem Ruby
+## 01 - Conhecendo a Linguagem Ruby
 
 - [01 - Introdução ao Ruby - Básico - 1 hrs](#)
   * [1. História do Ruby](#)
@@ -33,4 +33,10 @@
   * [7. Times](#)
   * [8. DoWhile](#)
 
+- [05 - Desafios Básicos #1 Formação Ruby - Básico - 1 hrs](#)
+
 - [06 - Criando uma Calculadora com Ruby - Básico - 1 hrs](#)
+
+- [07 - Materiais Complementares: Conhecendo a Linguagem Ruby - Básico - 1 hrs](#)
+
+## 02 - Avançando na Linguagem Ruby
