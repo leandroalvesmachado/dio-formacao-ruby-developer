@@ -40,3 +40,13 @@
 - [07 - Materiais Complementares: Conhecendo a Linguagem Ruby - Básico - 1 hrs](#)
 
 ## 02 - Avançando na Linguagem Ruby
+
+- [08 - Coleções em Ruby - Básico - 2 hrs](#)
+  * [1. Apresentação](#)
+  * [2. Array](#)
+  * [3. Hashes](#)
+  * [4. Each](#)
+  * [5. Map](#)
+  * [6. Select](#)
+
+- [09 - Cálculo com Potência em Ruby - Básico - 2 hrs](#)
