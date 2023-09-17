@@ -38,6 +38,15 @@ RUN ruby --version
 # Instale a gem Rails
 RUN gem install rails -v 7.0.8
 
+# Instale a gem bundler
+RUN gem install bundler
+
+# Instale a gem os
+RUN gem install os
+
+# Instale a gem cpf_cnpj
+RUN gem install cpf_cnpj
+
 # Define o diretório de trabalho dentro do contêiner
 WORKDIR /var/www/html
 

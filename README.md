@@ -50,3 +50,11 @@
   * [6. Select](#)
 
 - [09 - Cálculo com Potência em Ruby - Básico - 2 hrs](#)
+
+- [10 - Métodos e Gems - Básico - 1 hrs](#)
+  * [1. Apresentação](#)
+  * [2. Criando métodos](#)
+  * [3. Usando Gems](#)
+  * [4. Explorando gems](#)
+
+- [11 - Criando um Programa para Consulta de CPF com Ruby - Básico - 1 hrs](#)
