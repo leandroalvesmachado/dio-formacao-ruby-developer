@@ -62,3 +62,26 @@
 - [12 - Desafios Básicos #2 Formação Ruby- Básico - 1 hrs](#)
 
 - [13 - Materiais Complementares: Avançando na Linguagem Ruby - Básico - 1 hrs](#)
+
+## 03 - Programação Orientada a Objetos com Ruby
+
+- [14 - Introdução à POO com Ruby - Intermediário - 2 hrs](#)
+  * [1. Introdução à POO com Ruby](#)
+    * [1. Introdução](#)
+    * [2. O que é POO](#)
+    * [3. Antes da POO x Depois POO](#)
+    * [4. Exemplo no Mundo Real](#)
+    * [5. Vantagens da POO](#)
+    * [6. Definindo Conceitos Importantes](#)
+    * [7. Os 4 pilares da POO](#)
+    * [8. Proximos Passos](#)
+  * [2. POO com Ruby na Prática](#)
+    * [1. Classes](#)
+    * [2. Objetos](#)
+    * [3. Prática: Abstração e encapsulamento](#)
+    * [4. Prática: Herança](#)
+    * [5. Prática: Polimorfismos](#)
+    * [6. Require](#)
+    * [7. Escopo de variáveis](#)
+    * [8. Atributos](#)
+    * [9. Construtores](#)
