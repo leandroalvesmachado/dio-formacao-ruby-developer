@@ -58,3 +58,7 @@
   * [4. Explorando gems](#)
 
 - [11 - Criando um Programa para Consulta de CPF com Ruby - Básico - 1 hrs](#)
+
+- [12 - Desafios Básicos #2 Formação Ruby- Básico - 1 hrs](#)
+
+- [13 - Materiais Complementares: Avançando na Linguagem Ruby - Básico - 1 hrs](#)
