@@ -85,3 +85,14 @@
     * [7. Escopo de variáveis](#)
     * [8. Atributos](#)
     * [9. Construtores](#)
+
+- [15 - Modelando um Domínio de Negócios com Ruby - Intermediário - 1 hrs](#)
+  * [1. Introdução](#)
+  * [2. Step by Step do projeto](#)
+  * [3. Criando arquivos + attr accessor](#)
+  * [4. Arquivo Loja](#)
+  * [5. Finalizando o projeto](#)
+
+- [16 - Desafios Intermediários #3 Formação Ruby- Intermediário - 1 hrs](#)
+
+- [17 - Criando uma Dinâmica de Mercado com POO em Ruby - Intermediário - 1 hrs](#)
