@@ -2,9 +2,8 @@
 
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/leandroalvesmachado/dio-formacao-ruby-developer?style=for-the-badge)
 
-## docker build -t ubuntu22-ruby3-node18-rails7-postgresql14 .
-## docker run -it --name dio-formacao-ruby-developer -v /var/www/html/dio-formacao-ruby-developer:/var/www/html ubuntu22-ruby3-node18-rails7-postgresql14
-## docker run -p 3000:3000 meu_app_rails
+## docker build -t ubuntu22-ruby3-node18-rails7-postgresql14-sqlite3 .
+## docker run -p 3000:3000 -it --name dio-formacao-ruby-developer -v /var/www/html/dio-formacao-ruby-developer:/var/www/html ruby
 
 ## 01 - Conhecendo a Linguagem Ruby
 
@@ -96,3 +95,38 @@
 - [16 - Desafios Intermediários #3 Formação Ruby- Intermediário - 1 hrs](#)
 
 - [17 - Criando uma Dinâmica de Mercado com POO em Ruby - Intermediário - 1 hrs](#)
+
+- [18 - ? - Intermediário - 1 hrs](#)
+
+## 04 - Conhecendo o Ruby on Rails
+
+- [19 - Introdução à Arquitetura MVC - Intermediário - 1 hrs](#)
+  * [1. Introdução](#)
+  * [2. Rails + Instalação](#)
+  * [3. Apresentando o MVC](#)
+  * [4. MVC Model](#)
+  * [5. MVC Controller](#)
+  * [6. MVC View](#)
+
+- [20 - Comandos Básicos no Ruby on Rails - Intermediário - 2 hrs](#)
+  * [1. Introdução](#)
+  * [2. Conhecendo o Rails Parte 1](#)
+  * [3. Conhecendo o Rails Parte 2](#)
+  * [4. Criando Model, Views e Controller](#)
+  * [5. Conhecendo Model](#)
+  * [6. Conhecendo View](#)
+  * [7. Conhecendo Controller](#)
+  * [8. Segurança da informação em Rails](#)
+
+- [21 - Criando o seu Blog com Ruby on Rails - Intermediário - 1 hrs](#)
+
+- [22 - Materiais Complementares: Conhecendo o Ruby on Rails - Básico - 1 hrs](#)
+
+## 05 - Explorando Closures e Expressões Regulares com Ruby
+
+- [23 - Closures - Intermediário - 1 hrs](#)
+  * [1. Introdução](#)
+  * [2. Blocks](#)
+  * [3. Lambda](#)
+  * [4. Proc](#)
+  * [5. Modules NameSpace e Mixinídeo](#)
